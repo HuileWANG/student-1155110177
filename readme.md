@@ -7,7 +7,6 @@ Lee Tsz Yan
 
 - [x] say hello
 
-1 | a
-- | -
-a | b
-c | d
+First  | Second
+------------ | -------------
+ 1 | 2
